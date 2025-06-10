@@ -1,5 +1,6 @@
 **Advanced Data Visualisation - Namma Yatri Analysis**
-Case study on Namma Yatri App by Naveen, Sai Laxmi and Mohit.
+
+**Case study on Namma Yatri App by Naveen, Sai Laxmi and Mohit.**
 
 **Introduction:**
 -> The Namma Yatri app, developed by Bengaluru’s Auto Rickshaw Drivers’ Union (ARDU) and built by Juspay Technologies with support from the Beckn Foundation (founded by   Infosys co-founder Nandan Nilekani), was launched in November 2022 in collaboration with local auto drivers.
