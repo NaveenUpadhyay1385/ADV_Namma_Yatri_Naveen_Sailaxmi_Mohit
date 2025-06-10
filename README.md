@@ -87,6 +87,15 @@ Data serialization and deserialization (e.g., JSON).
 **Namma Yatri Dashboard using Power BI**
 ![Picture1](https://github.com/user-attachments/assets/ca08dd93-88e9-4ff3-9f2d-6adeb42e7e89)
 
+![Picture 3](https://github.com/user-attachments/assets/e67787e4-496c-473d-802f-cd839b278988)
+
+![Picture 4](https://github.com/user-attachments/assets/2e5536bb-aa03-4254-8db9-eaed06d67458)
+
+![Picture 5](https://github.com/user-attachments/assets/6bd9c8cd-7318-4461-aeac-a94176a3c341)
+
+
+
+
 
 
 
